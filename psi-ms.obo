@@ -1,5 +1,5 @@
 format-version: 1.2
-data-version: 4.1.72
+data-version: 4.1.73
 date: 02:02:2022 02:22
 saved-by: Joshua Klein
 auto-generated-by: OBO-Edit 2.3.1
@@ -20967,7 +20967,7 @@ is_a: MS:1000499 ! spectrum attribute
 [Term]
 id: MS:1003062
 name: library entry index
-def: "Integer index value that indicates the spectrum's ordered position within a spectral library. By custom, index counters should begin with 0." [PSI:PI]
+def: "Unique and consecutive integer index value that indicates the spectrum's ordered position within a spectral library. By custom, index counters should begin with 0." [PSI:PI]
 is_a: MS:1003234 ! library entry attribute
 
 [Term]
