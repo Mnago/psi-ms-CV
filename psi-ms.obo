@@ -25171,3 +25171,11 @@ synonym: "A^[2]" RELATED []
 is_a: UO:0000047
 created_by: gkoutos
 creation_date: 2013-06-27T05:06:40Z
+
+[Term]
+id: MS:1003413
+name: precursor ion current chromatogram
+def: "Representation of the precursor ion current detected in each a series of MS1 spectra versus time." [PSI:MS]
+synonym: "precursor ion chromatogram" EXACT []
+is_a: MS:1000810 ! ion current chromatogram
+
